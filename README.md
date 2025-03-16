@@ -71,7 +71,7 @@ The project includes a GUI for visualizing the results of object detection and s
 
 - **Main GUI Interface:**
 
-  ![Main GUI](../assets/ex1.png)
+  ![Main GUI](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/ex1.png)
   *Figure 1: The main interface of the application.*
 
 - **Complete GUI:**
