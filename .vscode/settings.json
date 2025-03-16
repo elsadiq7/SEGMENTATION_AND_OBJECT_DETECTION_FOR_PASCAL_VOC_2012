@@ -83,5 +83,6 @@
   "files.associations": {
     "*.studiorc": "shellscript"
   },
-  "files.enableTrash": false
+  "files.enableTrash": false,
+  "DockerRun.DisableDockerrc": true
 }
