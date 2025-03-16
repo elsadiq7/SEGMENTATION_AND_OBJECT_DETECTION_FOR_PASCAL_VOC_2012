@@ -67,13 +67,28 @@ To implement U-Net in this project:
 
 The project includes a GUI for visualizing the results of object detection and segmentation models. This interface allows users to interactively explore the outcomes of the models applied to the PASCAL VOC 2012 dataset.
 
-**Example GUI Image:**
+**Example GUI and Results:**
 
-![GUI Example](https://example.com/gui_image.png)
+- **Main GUI Interface:**
 
-*Figure 1: Screenshot of the GUI displaying segmentation results on a sample image.*
+  ![Main GUI](assets/main_main.png)
+  *Figure 1: The main interface of the application.*
 
-*Note: Replace `https://example.com/gui_image.png` with the actual URL of your GUI image hosted online.*
+- **Complete GUI:**
+
+  ![Complete GUI](assets/main.png)
+  *Figure 2: Full application view with all functionalities.*
+
+- **Example Input and Output:**
+
+  ![Example 1](assets/ex1.png)
+  *Figure 3: Example input image and detected objects.*
+  
+  ![Example 2](assets/ex2.png)
+  *Figure 4: Another example of object detection results.*
+  
+  ![Example 3](assets/ex3.png)
+  *Figure 5: Example segmentation output using U-Net.*
 
 ## Project Structure
 
@@ -85,7 +100,7 @@ SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/
 │   └── my_model/               # Custom model definitions or checkpoints
 ├── .vscode/                    # VSCode workspace settings
 ├── Utils/                      # Utility scripts and functions
-├── assets/                     # Project assets (e.g., images)
+├── assets/                     # Project assets (e.g., images, GUI screenshots)
 ├── logs/                       # Training and evaluation logs
 ├── models/                     # Pre-trained models and architectures
 ├── scr/                        # Source code for the application
@@ -105,4 +120,3 @@ SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
