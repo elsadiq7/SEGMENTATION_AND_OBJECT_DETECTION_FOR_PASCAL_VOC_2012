@@ -71,23 +71,23 @@ The project includes a GUI for visualizing the results of object detection and s
 
 - **Main GUI Interface:**
 
-  ![Main GUI](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/ex1.png)
+  ![Main GUI](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/main_main.png)
   *Figure 1: The main interface of the application.*
 
 - **Complete GUI:**
 
-  ![Complete GUI](assets/main.png)
+  ![Complete GUI]([assets/main.png](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/main.png))
   *Figure 2: Full application view with all functionalities.*
 
 - **Example Input and Output:**
 
-  ![Example 1](assets/ex1.png)
+  ![Example 1](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/ex1.png)
   *Figure 3: Example input image and detected objects.*
   
-  ![Example 2](assets/ex2.png)
+  ![Example 2](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/ex2.png)
   *Figure 4: Another example of object detection results.*
   
-  ![Example 3](assets/ex3.png)
+  ![Example 3](https://github.com/elsadiq7/SEGMENTATION_AND_OBJECT_DETECTION_FOR_PASCAL_VOC_2012/blob/master/assets%20/ex3.png)
   *Figure 5: Example segmentation output using U-Net.*
 
 ## Project Structure
