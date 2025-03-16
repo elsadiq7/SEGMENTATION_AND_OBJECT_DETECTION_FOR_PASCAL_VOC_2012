@@ -71,7 +71,7 @@ The project includes a GUI for visualizing the results of object detection and s
 
 - **Main GUI Interface:**
 
-  ![Main GUI](assets/ex1.png)
+  ![Main GUI](../assets/ex1.png)
   *Figure 1: The main interface of the application.*
 
 - **Complete GUI:**
