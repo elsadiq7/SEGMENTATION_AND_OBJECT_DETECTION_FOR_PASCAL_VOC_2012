@@ -8,3 +8,4 @@ pandas
 segmentation-models-pytorch
 tqdm
 scikit-learn
+streamlit

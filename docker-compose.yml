@@ -1,0 +1,19 @@
+
+version: '3.8'
+
+services:
+  app:
+    build: .
+    ports:
+      - "5000:5000"
+    volumes:
+      - .:/usr/src/app
+    environment:
+      - ENV_VAR=example_value
+  # Add other services like databases here
+  # db:
+  #   image: postgres
+  #   environment:
+  #     POSTGRES_USER: user
+  #     POSTGRES_PASSWORD: password
+  #     POSTGRES_DB: mydatabase
